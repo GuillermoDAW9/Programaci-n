@@ -1,1 +1,16 @@
+import java.util.Scanner;
 
+public class SalarioSemanal {
+    public static void main(String[] args) {
+        Scanner teclado = new Scanner(System.in);
+
+        System.out.print("Introduce las horas trabajadas: ");
+        double horas = teclado.nextDouble();
+
+        double salario = horas * 12;
+
+        System.out.println("El salario semanal es: " + salario + " euros");
+
+        teclado.close();
+    }
+}
