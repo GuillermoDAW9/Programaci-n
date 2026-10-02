@@ -3,6 +3,7 @@
 ## Ejercicios T1
 
 | Ejercicios | descripción |
+| --- | --- |
 | [Ejercicio 1](Ejercicios T1/Ejercicio 1.java) | Copia el siguiente código, compila y pruébalo. |
 | [Ejercicio 2](Ejercicios T1/Ejercicio 2.java) | Escribe una programa que muestre tu nombre por pantalla. |
 | [Ejercicio 3](Ejercicios T1/Ejercicio 3.java) | Modifica el programa anterior para que además se muestre tu dirección y tu número de teléfono. |
@@ -13,6 +14,7 @@
 ## Ejercicios T2
 
 | Ejercicios | descripción |
+| --- | --- |
 | [Ejercicio 1](Ejercicios T2/Ejercicio 1.java) | Escribe un programa que calcule el salario semanal de un empleado en base a las horas trabajadas, a razón de 12 euros la hora. |
 | [Ejercicio 2](Ejercicios T2/Ejercicio 2.java) |Escribe un programa que calcule el volumen de un cono según la fórmula V =. |
 | [Ejercicio 3](Ejercicios T2/Ejercicio 3.java) |Realiza un conversor de Mb a Kb. |
