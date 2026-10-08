@@ -15,7 +15,7 @@
 
 | Ejercicios | descripción |
 | --- | --- |
-| [Ejercicio 1](Ejercicios T2/Ejercicio 1.java) | Escribe un programa que calcule el salario semanal de un empleado en base a las horas trabajadas, a razón de 12 euros la hora. |
+| [Ejercicio 1](T1/Ejercicio 1.java) |  |
 | [Ejercicio 2](Ejercicios T2/Ejercicio 2.java) |Escribe un programa que calcule el volumen de un cono según la fórmula V =. |
 | [Ejercicio 3](Ejercicios T2/Ejercicio 3.java) |Realiza un conversor de Mb a Kb. |
 | [Ejercicio 4](Ejercicios T2/Ejercicio 4.java) |Realiza un conversor de Kb a Mb. |
