@@ -27,3 +27,8 @@
 | Ejercicios | descripción |
 | --- | --- |
 | [AñoBisiesto](T3/AñoBisiesto.java) | Escribe un programa que me diga los años bisiestos. |
+| [Ejercicio 1](T3/Ejercicio4.java) |Realiza un conversor de Kb a Mb. |
+| [Ejercicio 2](T3/Ejercicio4.java) |Realiza un conversor de Kb a Mb. |
+| [Ejercicio 3](T3/Ejercicio4.java) |Realiza un conversor de Kb a Mb. |
+| [Ejercicio 4](T3/Ejercicio4.java) |Realiza un conversor de Kb a Mb. |
+| [Ejercicio 5](T3/Ejercicio4.java) |Realiza un conversor de Kb a Mb. |
