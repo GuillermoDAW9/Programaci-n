@@ -4,7 +4,7 @@
 
 | Ejercicios | descripción |
 | --- | --- |
-| [Ejercicio 1](Ejercicios T1/Ejercicio 1.java) | Copia el siguiente código, compila y pruébalo. |
+| [Ejercicio 1](T1/Ejercicio1.java) | Copia el siguiente código, compila y pruébalo. |
 | [Ejercicio 2](Ejercicios T1/Ejercicio 2.java) | Escribe una programa que muestre tu nombre por pantalla. |
 | [Ejercicio 3](Ejercicios T1/Ejercicio 3.java) | Modifica el programa anterior para que además se muestre tu dirección y tu número de teléfono. |
 | [Ejercicio 4](Ejercicios T1/Ejercicio 4.java) | Escribe un programa que muestre por pantalla 10 palabras en inglés junto a su correspondiente traducción al castellano. |
