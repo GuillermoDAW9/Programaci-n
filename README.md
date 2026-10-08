@@ -26,4 +26,4 @@
 
 | Ejercicios | descripción |
 | --- | --- |
-| [Ejercicio 1](T3/AñoBisiesto.java) | Escribe un programa que me diga los años bisiestos. |
+| [AñoBisiesto](T3/AñoBisiesto.java) | Escribe un programa que me diga los años bisiestos. |
