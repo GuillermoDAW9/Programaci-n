@@ -27,8 +27,8 @@
 | Ejercicios | descripción |
 | --- | --- |
 | [AñoBisiesto](T3/AñoBisiesto.java) | Escribe un programa que me diga los años bisiestos. |
-| [Ejercicio 1](T3/Ejercicio4.java) |Realiza un conversor de Kb a Mb. |
-| [Ejercicio 2](T3/Ejercicio4.java) |Realiza un conversor de Kb a Mb. |
-| [Ejercicio 3](T3/Ejercicio4.java) |Realiza un conversor de Kb a Mb. |
-| [Ejercicio 4](T3/Ejercicio4.java) |Realiza un conversor de Kb a Mb. |
-| [Ejercicio 5](T3/Ejercicio4.java) |Realiza un conversor de Kb a Mb. |
+| [Ejercicio 1](T3/Ejercicio1.java) | Escribe un programa que pida por teclado un día de la semana y que diga qué asignatura toca a primera hora ese día. |
+| [Ejercicio 2](T3/Ejercicio2.java) | Realiza un programa que pida una hora por teclado y que muestre luego buenos días, buenas tardes o buenas noches según la hora. Se utilizarán los tramos de 6 a 12, de 13 a 20 y de 21 a 5. respectivamente. Sólo se tienen en cuenta las horas, los minutos no se deben introducir por teclado. |
+| [Ejercicio 3](T3/Ejercicio3.java) | Escribe un programa que nos diga el horóscopo a partir del día y el mes de nacimiento. |
+| [Ejercicio 4](T3/Ejercicio4.java) | Realiza un programa que diga si un número entero positivo introducido por teclado es capicúa. Se permiten números de hasta 5 cifras. |
+| [Ejercicio 5](T3/Ejercicio5.java) | Calcula la nota de un trimestre de la asignatura Programación. El programa pedirá las dos notas que ha sacado el alumno en los dos primeros controles. |
