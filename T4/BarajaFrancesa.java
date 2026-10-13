@@ -11,11 +11,11 @@ public class BarajaFrancesa {
     if (palo==0)
       System.out.println(x: "Picas");
     else if (palo==1)
-      System.out.println("x: Corazones");
+      System.out.println(x: "Corazones");
     else if (palo==2)
-      System.out.println("x: Diamantes");
+      System.out.println(x: "Diamantes");
     else 
-      System.out.println("x: Treboles");
+      System.out.println(x: "Treboles");
     System.out.println("El valor de la carta es: " + valor);
 
 sc.close();
