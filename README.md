@@ -41,4 +41,6 @@
 | [EjercicioAdicional1](T4/EjercicioAdicional1.java) | Introduzca 5 notas en el teclado. |
 | [EjercicioAdicional2](T4/EjercicioAdicional2.java) | Escribe un programa que lea un número por teclado con un mínimo de 2 dígitos y un máximo de 7. |
 | [EjercicioAdicional3](T4/EjercicioAdicional3.java) | Escribe un programa que lea el nombre y dos apellidos y nos almacene en cadenas separadas el nombre, el primer apellido y el segundo apellido.  |
-
+| [BarajaFrancesa](T4/BarajaFrancesa.java) | Hazme un ejercicio que realice la Baraja Francesa.  |
+| [Quiniela](T4/Quiniela.java) | Hazme un ejercicio en el que se represente una quiniela.  |
+| [5Aleatorios](T4/5Aleatorios.java) | Hazme un ejercicio en el que aparezca 5 números Aleatorios por pantalla.  |
