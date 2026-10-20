@@ -32,3 +32,13 @@
 | [Ejercicio 3](T3/Ejercicio3.java) | Escribe un programa que nos diga el horóscopo a partir del día y el mes de nacimiento. |
 | [Ejercicio 4](T3/Ejercicio4.java) | Realiza un programa que diga si un número entero positivo introducido por teclado es capicúa. Se permiten números de hasta 5 cifras. |
 | [Ejercicio 5](T3/Ejercicio5.java) | Calcula la nota de un trimestre de la asignatura Programación. El programa pedirá las dos notas que ha sacado el alumno en los dos primeros controles. |
+
+
+## Ejercicios T4
+
+| Ejercicios | descripción |
+| --- | --- |
+| [EjercicioAdicional1](T4/EjercicioAdicional1.java) | Introduzca 5 notas en el teclado. |
+| [EjercicioAdicional2](T4/EjercicioAdicional2.java) | Escribe un programa que lea un número por teclado con un mínimo de 2 dígitos y un máximo de 7. |
+| [EjercicioAdicional3](T4/EjercicioAdicional3.java) | Escribe un programa que lea el nombre y dos apellidos y nos almacene en cadenas separadas el nombre, el primer apellido y el segundo apellido.  |
+
