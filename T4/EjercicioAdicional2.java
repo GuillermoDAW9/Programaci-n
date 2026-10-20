@@ -14,7 +14,7 @@ public class EjercicioAdicional2 {
             correcto = false;
         }
 
-        for (int i = 0; i < numero.length(); i++) {
+        if (int i = 0; i < numero.length(); i++) {
             if (numero.charAt(i) < '0' || numero.charAt(i) > '9') {
                 correcto = false;
             }
