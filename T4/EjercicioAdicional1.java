@@ -7,7 +7,7 @@ public class EjercicioAdicional1 {
         double nota, suma = 0;
         double maximo = 0, minimo = 10;
 
-        for (int i = 1; i <= 5; i++) {
+        if (int i = 1; i <= 5; i++) {
             System.out.println("Introduce una nota:");
             nota = teclado.nextDouble();
 
