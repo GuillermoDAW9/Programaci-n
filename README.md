@@ -15,11 +15,11 @@
 
 | Ejercicios | descripción |
 | --- | --- |
-| [Ejercicio 1](T2/Ejercicio1.java) | Escribe un programa que calcule el salario semanal de un empleado en base a las horas trabajadas, a razón de 12 euros la hora. |
-| [Ejercicio 2](T2/Ejercicio2.java) |Escribe un programa que calcule el volumen de un cono según la fórmula V =. |
-| [Ejercicio 3](T2/Ejercicio3.java) |Realiza un conversor de Mb a Kb. |
-| [Ejercicio 4](T2/Ejercicio4.java) |Realiza un conversor de Kb a Mb. |
-| [Ejercicio 5](T2/Ejercicio5.java) |Dado un número desde teclado compuesto por ceros y unos con 8 cifras como máximo, muestra su valor correspondiente decimal. |
+| [Ejercicio1](T2/Ejercicio1.java) | Escribe un programa que calcule el salario semanal de un empleado en base a las horas trabajadas, a razón de 12 euros la hora. |
+| [Ejercicio2](T2/Ejercicio2.java) |Escribe un programa que calcule el volumen de un cono según la fórmula V =. |
+| [Ejercicio3](T2/Ejercicio3.java) |Realiza un conversor de Mb a Kb. |
+| [Ejercicio4](T2/Ejercicio4.java) |Realiza un conversor de Kb a Mb. |
+| [Ejercicio5](T2/Ejercicio5.java) |Dado un número desde teclado compuesto por ceros y unos con 8 cifras como máximo, muestra su valor correspondiente decimal. |
 
 
 ## Ejercicios T3
