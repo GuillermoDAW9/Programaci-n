@@ -44,3 +44,20 @@
 | [BarajaFrancesa](T4/BarajaFrancesa.java) | Hazme un ejercicio que realice la Baraja Francesa.  |
 | [Quiniela](T4/Quiniela.java) | Hazme un ejercicio en el que se represente una quiniela.  |
 | [5Aleatorios](T4/5Aleatorios.java) | Hazme un ejercicio en el que aparezca 5 números Aleatorios por pantalla.  |
+
+
+## Ejercicios T5
+
+| Ejercicios | descripción |
+| --- | --- |
+| [Cohete](T5/Cohete.java) | Hazme un ejercicio en el que se represente una quiniela.  |
+| [ContarCifras](T5/ContarCifras.java) | Hazme un ejercicio en el que se represente una quiniela.  |
+| [CuadradoNumerico](T5/CuadradoNumerico.java) | Hazme un ejercicio en el que se represente una quiniela.  |
+| [Escalera](T5/Escalera.java) | Hazme un ejercicio en el que se represente una quiniela.  |
+| [ImprimirNumeros](T5/ImprimirNumeros.java) | Hazme un ejercicio en el que se represente una quiniela.  |
+| [Notas](T5/Notas.java) | Hazme un ejercicio en el que se represente una quiniela.  |
+| [NumerosEnteros](T5/NumerosEnteros.java) | Hazme un ejercicio en el que se represente una quiniela.  |
+| [NumerosPares](T5/NumerosPares.java) | Hazme un ejercicio en el que se represente una quiniela.  |
+| [NumerosPrimos](T5/NumerosPrimos.java) | Hazme un ejercicio en el que se represente una quiniela.  |
+| [TablaDelNueve](T5/TablaDelNueve.java) | Hazme un ejercicio en el que se represente una quiniela.  |
+
